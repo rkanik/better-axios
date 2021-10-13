@@ -1,0 +1,16 @@
+{
+  "name": "@rkanik/vuex-axios",
+  "version": "1.0.3",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "lodash": "^4.17.21"
+  }
+}
